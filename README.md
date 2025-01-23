@@ -4,6 +4,24 @@
 
 A modern, customizable widget system built with React, TypeScript, Framer Motion, and Tailwind CSS. The system provides a collection of reusable, accessible, and highly customizable e-commerce components designed for scalability and performance.
 
+## Widget Showcase
+
+<video width="100%" controls>
+  <source src="https://github.com/TechTronixx/Widget_Showcase/raw/refs/heads/main/Widge%20showcase.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Watch our widget system in action! The video above demonstrates our comprehensive collection of e-commerce components including:
+
+- Product Quick View with image gallery
+- Dynamic Stock Status Indicators
+- Animated Mini Cart Drawer
+- Interactive Refer & Earn Widgets
+- Order Status Timeline
+- Back in Stock Notifications
+
+Each component showcases smooth animations, responsive design, and theme customization capabilities.
+
 ## Core Features
 
 - 🎨 Theme Support (Light/Dark)
